@@ -1,5 +1,5 @@
 sounddevice
-scipy.io
+scipy
 librosa
-numpy as np
+numpy
 SoundFile
