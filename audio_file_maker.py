@@ -4,7 +4,7 @@ from scipy.io.wavfile import write
 def main_function():
 
     fs = 16000
-    second = 5
+    second = 3
 
     emotions={
         '1':'neutral',
