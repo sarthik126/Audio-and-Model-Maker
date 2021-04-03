@@ -15,7 +15,8 @@ Note:
   2. Python file and its usage:
       1. audio_file_maker.py - For creating audio files
       2. model_creater.py    - For creating model out of audio
-      3. file_prediction.py  - For predicting microphone audio with created model
+      3. file_prediction.py  - For predicting .wav audio files with created model (file name should be given as .wav and file should be present in Audios Directory)
+      4. mic_prediction.py   - For continuous prediction of microphone audio with created model
   3. Running python files command : $python filename
   4. "Note that audio must be created for all types of emotions and this code will allow one audio for each emotion type and if same emotion audio file is created then old file will be replaced".
 
