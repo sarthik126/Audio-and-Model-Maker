@@ -24,3 +24,4 @@ Project Description:
   1. This project is extension of Speech Emotion Recognition from Microphone project ( Main Project Link : https://github.com/sarthik126/Speech-Emotion-Recognition ).
   2. This project is used for creating .wav audio files and to create model out of created audio files.
   3. Accuracy can be increased using best model created using proper and more audios.
+  4. This project is Speech Emotion Recognition without django integration and can be used for testing purpose.
